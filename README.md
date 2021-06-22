@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there I'm Cássio Tatsch,
 
-<!--
-**cassiogt/cassiogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineer with 10 years of experience. I really like software architecture, always trying to keep code clean and with good performance.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Software Engineer for [Idealogic](https://www.idealogic.com.br/en/home-english/).
+- 🌱 I’m currently learning more about infrastructure [Terraform](https://www.terraform.io/), [Helm](https://helm.sh/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ctatsch/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies I like to work with:
+
+- Java
+- Kotlin 
+- Spring Framework
+- Quarkus
+- Docker
+- JavaScript
+- React
+- Ansible
+- C, C++
+- Linux
